@@ -1,0 +1,3 @@
+= editor-mobile
+
+Editor as a mobile application (hybrid app)
